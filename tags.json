@@ -2,10 +2,10 @@
   "bash": 2,
   "cli": 1,
   "css": 1,
-  "db": 1,
+  "db": 2,
   "git": 2,
   "i18n": 1,
   "js": 4,
   "linux": 1,
-  "perf": 2
+  "perf": 3
 }
