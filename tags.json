@@ -1,13 +1,13 @@
 {
   "bash": 3,
   "cli": 4,
-  "css": 6,
+  "css": 7,
   "db": 6,
   "git": 5,
   "i18n": 1,
   "js": 8,
   "linux": 2,
-  "mobile": 1,
+  "mobile": 2,
   "perf": 3,
   "ssh": 2
 }
