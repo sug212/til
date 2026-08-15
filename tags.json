@@ -1,6 +1,6 @@
 {
   "bash": 5,
-  "cli": 8,
+  "cli": 9,
   "css": 10,
   "db": 6,
   "git": 8,
@@ -8,6 +8,6 @@
   "js": 11,
   "linux": 2,
   "mobile": 3,
-  "perf": 5,
+  "perf": 6,
   "ssh": 3
 }
