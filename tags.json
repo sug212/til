@@ -2,12 +2,12 @@
   "bash": 5,
   "cli": 13,
   "css": 15,
-  "db": 10,
+  "db": 11,
   "git": 12,
   "i18n": 4,
   "js": 15,
   "linux": 4,
   "mobile": 5,
-  "perf": 10,
+  "perf": 11,
   "ssh": 4
 }
